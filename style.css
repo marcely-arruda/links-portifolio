@@ -40,6 +40,7 @@ body * {
     padding: 0 24px;
 }
 
+/*Profile*/
 #profile {
     text-align: center;
     padding: 24px;
@@ -59,3 +60,5 @@ body * {
 #profile span {
     font-size: 12px;
 }
+
+/*Switch*/
